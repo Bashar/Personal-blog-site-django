@@ -16,6 +16,7 @@
 *.pyc 		binary
 *.pyd		binary
 *.pyo 		binary
+*.css linguist-language=Python
 
 # Note: .db, .p, and .pkl files are associated
 # with the python modules ``pickle``, ``dbm.*``,
