@@ -2,3 +2,4 @@ Django==1.11.4
 django-addthis==3.0.0
 django-froala-editor==2.6.5
 pytz==2017.2
+django-ckeditor
